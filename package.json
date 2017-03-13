@@ -1,0 +1,17 @@
+{
+  "name": "dataTypes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "author": "Ruth Nnochiri",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
